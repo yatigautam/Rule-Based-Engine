@@ -6,7 +6,7 @@ A simple 3-tier rule engine application using Abstract Syntax Tree (AST) to dete
 
 ---
 
-## Working logic 
+## Working logic--
 
 ![Alt text](https://raw.githubusercontent.com/yatigautam/Rule-Based-Engine./refs/heads/main/images/rule-based-engine-working%20flowchart.webp)
 
