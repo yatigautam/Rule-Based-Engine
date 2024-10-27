@@ -48,14 +48,11 @@ This application provides a rule engine that uses Abstract Syntax Trees (AST) to
 
 ---
 
-<<<<<<< HEAD
 ## Demo Video Available 
 https://drive.google.com/file/d/13gKgdICp5AOR6qncwCFPqRmkQoXETwWx/view?usp=sharing
 
 ---
 
-=======
->>>>>>> e4da9e5e (Update README.md)
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
