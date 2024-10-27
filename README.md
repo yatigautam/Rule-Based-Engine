@@ -6,13 +6,12 @@ A simple 3-tier rule engine application using Abstract Syntax Tree (AST) to dete
 
 ---
 
-<<<<<<< HEAD
-## Working logic--
-=======
-## Working logic-
->>>>>>> a9abe86f06ca39ceea1e8f121dc974f2f6a97b14
+## Working logic
 
 ![Alt text](https://raw.githubusercontent.com/yatigautam/Rule-Based-Engine./refs/heads/main/images/rule-based-engine-working%20flowchart.webp)
+
+--- 
+
 
 ## Table of Contents
 
